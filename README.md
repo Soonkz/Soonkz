@@ -1,4 +1,8 @@
-### Hi there 👋
+
+_________________________________________________________
+### :x: "The best thing about a boolean is even if you are wrong, you are only off by a bit." :heavy_exclamation_mark: 
+_________________________________________________________
+
 
 <!--
 **Soonkz/Soonkz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
